@@ -18,4 +18,17 @@ MSSS: K225480106047
  - build solution, được file .dll
 <img width="1003" height="613" alt="3" src="https://github.com/user-attachments/assets/b05588c3-288b-4d04-9bc1-ebaa2b2a346d" />
 <img width="625" height="153" alt="4" src="https://github.com/user-attachments/assets/1b81c445-22a0-40f3-9546-33d9e50fcd13" />
-2. 
+
+2. Tạo Console app
+Tạo project console app ( .NET Framework 2.0) thêm Reference tới MathLibrary.dll và sửa lại code trong Program.cs
+<img width="736" height="103" alt="5" src="https://github.com/user-attachments/assets/1824fe2f-4d3b-4dca-ab8c-4f2ad9f9b8cb" />
+<img width="968" height="629" alt="10" src="https://github.com/user-attachments/assets/858da558-499f-4737-9d0d-3b318ae6b6d4" />
+
+references đến file .dll
+<img width="445" height="124" alt="6" src="https://github.com/user-attachments/assets/82a1e9bc-7a3c-4d60-8e84-2731773ed0be" />
+<img width="740" height="264" alt="7" src="https://github.com/user-attachments/assets/968b9d3d-da1e-46ba-99d8-f8d8bc0d1370" />
+
+Chuột phải vào project console ---> Set as startup project
+<img width="178" height="27" alt="8" src="https://github.com/user-attachments/assets/00d01c57-ec6d-45e1-971c-d937511ec982" />
+<img width="304" height="43" alt="9" src="https://github.com/user-attachments/assets/6bace90b-9b27-43c6-8efa-9e5c74dd973c" />
+
