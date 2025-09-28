@@ -1,0 +1,10 @@
+D:\bt\1\b1\b1\obj\Debug\netstandard2.0\b1.csproj.AssemblyReference.cache
+D:\bt\1\b1\b1\obj\Debug\netstandard2.0\b1.GeneratedMSBuildEditorConfig.editorconfig
+D:\bt\1\b1\b1\obj\Debug\netstandard2.0\b1.AssemblyInfoInputs.cache
+D:\bt\1\b1\b1\obj\Debug\netstandard2.0\b1.AssemblyInfo.cs
+D:\bt\1\b1\b1\obj\Debug\netstandard2.0\b1.csproj.CoreCompileInputs.cache
+D:\bt\1\b1\b1\bin\Debug\netstandard2.0\b1.deps.json
+D:\bt\1\b1\b1\bin\Debug\netstandard2.0\b1.dll
+D:\bt\1\b1\b1\bin\Debug\netstandard2.0\b1.pdb
+D:\bt\1\b1\b1\obj\Debug\netstandard2.0\b1.dll
+D:\bt\1\b1\b1\obj\Debug\netstandard2.0\b1.pdb
