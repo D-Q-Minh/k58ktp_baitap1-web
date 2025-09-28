@@ -1,4 +1,5 @@
-# k58ktp_baitap1-web
+##### Sinh viên: Dương Quang Minh
+MSSS: K225480106047
 ### Môn: Phát triển ứng dụng trên nền web
 ### Bài 1:
 #### TẠO SOLUTION GỒM CÁC PROJECT SAU:
