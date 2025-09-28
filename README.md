@@ -43,3 +43,8 @@ thêm Reference tới b1.dll
 <img width="234" height="28" alt="13" src="https://github.com/user-attachments/assets/b207894b-5a22-43bb-9685-756e22773f81" />
 <img width="181" height="28" alt="14" src="https://github.com/user-attachments/assets/da47f536-7098-43c3-856b-c1a5d0e15905" />
 <img width="742" height="536" alt="15" src="https://github.com/user-attachments/assets/f17a3b1a-88a2-4129-a9d4-5f8ccf9353e0" />
+
+Dùng thao tác đồ họa kéo thả các thanh toolbox vào khung hoặc code thay thế cho các file .cs để tự động tạo giao diện
+<img width="871" height="510" alt="16" src="https://github.com/user-attachments/assets/6268ffd6-ef3e-41a4-91f9-47bbdcc34ffa" />
+
+4. web
