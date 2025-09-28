@@ -32,3 +32,7 @@ Chuột phải vào project console ---> Set as startup project
 <img width="178" height="27" alt="8" src="https://github.com/user-attachments/assets/00d01c57-ec6d-45e1-971c-d937511ec982" />
 <img width="304" height="43" alt="9" src="https://github.com/user-attachments/assets/6bace90b-9b27-43c6-8efa-9e5c74dd973c" />
 
+Chạy console app
+<img width="456" height="101" alt="11" src="https://github.com/user-attachments/assets/fe1d7636-8dfe-4e65-af03-b4abfb3bdee2" />
+
+3. Windows Form Application
