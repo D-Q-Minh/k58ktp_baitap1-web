@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Gửi 2 số đến API</title>
+    <style>
+        body {
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            background-color: #ccc;
+            width: 320px;
+            margin: 100px auto;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 0 8px rgba(0,0,0,0.2);
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        label {
+            display: block;
+            margin-top: 10px;
+        }
+
+        input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            margin-top: 4px;
+            border: 1px solid #999;
+            border-radius: 6px;
+        }
+
+        button {
+            width: 100%;
+            margin-top: 15px;
+            padding: 10px;
+            background-color: #555;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+            button:hover {
+                background-color: #333;
+            }
+
+        .result {
+            margin-top: 15px;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .error {
+            color: red;
+            text-align: center;
+            margin-top: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Cộng 2 số: </h2>
+        <label for="a">Số a:</label>
+        <input type="number" id="a" placeholder="Nhập số a">
+        <label for="b">Số b:</label>
+        <input type="number" id="b" placeholder="Nhập số b">
+        <button onclick="SendData()">Gửi</button>
+        <div class="error" id="error"></div>
+        <div class="result" id="result"></div>
+    </div>
+
+    <script>
+        async function SendData() {
+            const a = document.getElementById("a").value.trim();
+            const b = document.getElementById("b").value.trim();
+            const errorDiv = document.getElementById("error");
+            const resultDiv = document.getElementById("result");
+
+            errorDiv.textContent = "";
+            resultDiv.textContent = "";
+
+            // Kiểm tra nhập đủ dữ liệu
+            if (a === "" || b === "") {
+                errorDiv.textContent = "⚠️ Vui lòng nhập đủ hai số!";
+                return;
+            }
+
+            // Tạo dữ liệu dạng x-www-form-urlencoded
+            const formData = new URLSearchParams();
+            formData.append("a", a);
+            formData.append("b", b);
+
+            try {
+                const response = await fetch("api.aspx", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/x-www-form-urlencoded"
+                    },
+                    body: formData.toString()
+                });
+
+                if (!response.ok) {
+                    throw new Error(`Lỗi HTTP: ${response.status}`);
+                }
+
+                const data = await response.json();
+
+                if (data.kq !== undefined) {
+                    resultDiv.textContent = `✅ Kết quả: ${data.kq}`;
+                } else {
+                    throw new Error("Dữ liệu trả về không hợp lệ!");
+                }
+            } catch (err) {
+                errorDiv.textContent = "❌ Lỗi: " + err.message;
+            }
+        }
+    </script>
+</body>
+</html>

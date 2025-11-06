@@ -1,0 +1,12 @@
+D:\web prj\WebApplication2_web_demo_102025\WindowsFormsApp_test_dell\bin\Debug\WindowsFormsApp_test_dell.exe
+D:\web prj\WebApplication2_web_demo_102025\WindowsFormsApp_test_dell\bin\Debug\WindowsFormsApp_test_dell.pdb
+D:\web prj\WebApplication2_web_demo_102025\WindowsFormsApp_test_dell\bin\Debug\toan_lop_1.dll
+D:\web prj\WebApplication2_web_demo_102025\WindowsFormsApp_test_dell\bin\Debug\toan_lop_1.pdb
+D:\web prj\WebApplication2_web_demo_102025\WindowsFormsApp_test_dell\obj\Debug\WindowsFormsApp_test_dell.csproj.AssemblyReference.cache
+D:\web prj\WebApplication2_web_demo_102025\WindowsFormsApp_test_dell\obj\Debug\WindowsFormsApp_test_dell.Form1.resources
+D:\web prj\WebApplication2_web_demo_102025\WindowsFormsApp_test_dell\obj\Debug\WindowsFormsApp_test_dell.Properties.Resources.resources
+D:\web prj\WebApplication2_web_demo_102025\WindowsFormsApp_test_dell\obj\Debug\WindowsFormsApp_test_dell.csproj.GenerateResource.cache
+D:\web prj\WebApplication2_web_demo_102025\WindowsFormsApp_test_dell\obj\Debug\WindowsFormsApp_test_dell.csproj.CoreCompileInputs.cache
+D:\web prj\WebApplication2_web_demo_102025\WindowsFormsApp_test_dell\obj\Debug\WindowsF.7DA3195B.Up2Date
+D:\web prj\WebApplication2_web_demo_102025\WindowsFormsApp_test_dell\obj\Debug\WindowsFormsApp_test_dell.exe
+D:\web prj\WebApplication2_web_demo_102025\WindowsFormsApp_test_dell\obj\Debug\WindowsFormsApp_test_dell.pdb

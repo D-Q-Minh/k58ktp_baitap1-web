@@ -1,0 +1,12 @@
+D:\web prj\WebApplication2_web_demo_102025\WebApplication2_web_demo_102025\bin\WebApplication2_web_demo_102025.dll.config
+D:\web prj\WebApplication2_web_demo_102025\WebApplication2_web_demo_102025\bin\WebApplication2_web_demo_102025.dll
+D:\web prj\WebApplication2_web_demo_102025\WebApplication2_web_demo_102025\bin\WebApplication2_web_demo_102025.pdb
+D:\web prj\WebApplication2_web_demo_102025\WebApplication2_web_demo_102025\obj\Debug\WebApplication2_web_demo_102025.csproj.AssemblyReference.cache
+D:\web prj\WebApplication2_web_demo_102025\WebApplication2_web_demo_102025\obj\Debug\WebApplication2_web_demo_102025.csproj.CoreCompileInputs.cache
+D:\web prj\WebApplication2_web_demo_102025\WebApplication2_web_demo_102025\obj\Debug\WebApplication2_web_demo_102025.dll
+D:\web prj\WebApplication2_web_demo_102025\WebApplication2_web_demo_102025\obj\Debug\WebApplication2_web_demo_102025.pdb
+D:\web prj\WebApplication2_web_demo_102025\WebApplication2_web_demo_102025\bin\Newtonsoft.Json.dll
+D:\web prj\WebApplication2_web_demo_102025\WebApplication2_web_demo_102025\bin\toan_lop_1.dll
+D:\web prj\WebApplication2_web_demo_102025\WebApplication2_web_demo_102025\bin\toan_lop_1.pdb
+D:\web prj\WebApplication2_web_demo_102025\WebApplication2_web_demo_102025\bin\Newtonsoft.Json.xml
+D:\web prj\WebApplication2_web_demo_102025\WebApplication2_web_demo_102025\obj\Debug\WebAppli.02A78A28.Up2Date

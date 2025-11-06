@@ -1,0 +1,6 @@
+D:\web prj\WebApplication2_web_demo_102025\toan_lop_1\bin\Debug\toan_lop_1.dll
+D:\web prj\WebApplication2_web_demo_102025\toan_lop_1\bin\Debug\toan_lop_1.pdb
+D:\web prj\WebApplication2_web_demo_102025\toan_lop_1\obj\Debug\toan_lop_1.csproj.AssemblyReference.cache
+D:\web prj\WebApplication2_web_demo_102025\toan_lop_1\obj\Debug\toan_lop_1.csproj.CoreCompileInputs.cache
+D:\web prj\WebApplication2_web_demo_102025\toan_lop_1\obj\Debug\toan_lop_1.dll
+D:\web prj\WebApplication2_web_demo_102025\toan_lop_1\obj\Debug\toan_lop_1.pdb

@@ -1,0 +1,9 @@
+D:\web prj\WebApplication2_web_demo_102025\console_test_dll\bin\Debug\console_test_dll.exe
+D:\web prj\WebApplication2_web_demo_102025\console_test_dll\bin\Debug\console_test_dll.pdb
+D:\web prj\WebApplication2_web_demo_102025\console_test_dll\bin\Debug\toan_lop_1.dll
+D:\web prj\WebApplication2_web_demo_102025\console_test_dll\bin\Debug\toan_lop_1.pdb
+D:\web prj\WebApplication2_web_demo_102025\console_test_dll\obj\Debug\console_test_dll.csproj.AssemblyReference.cache
+D:\web prj\WebApplication2_web_demo_102025\console_test_dll\obj\Debug\console_test_dll.csproj.CoreCompileInputs.cache
+D:\web prj\WebApplication2_web_demo_102025\console_test_dll\obj\Debug\console_.EC3B9C06.Up2Date
+D:\web prj\WebApplication2_web_demo_102025\console_test_dll\obj\Debug\console_test_dll.exe
+D:\web prj\WebApplication2_web_demo_102025\console_test_dll\obj\Debug\console_test_dll.pdb
